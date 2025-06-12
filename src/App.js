@@ -18,7 +18,9 @@ function App() {
                     <TodoList />
                 </div>
             </div>
+
         </div>
+
     )
 }
 
